@@ -76,7 +76,7 @@ class persegipanjang {
 
 
 $persegipanjang1 = new persegipanjang;
-$persegipanjang1 -> set_nilai(2,2,2,2);
+$persegipanjang1 -> set_nilai(4,4,4,4);
 echo "Rumus persegi :".$persegipanjang1->get_nilai(). '<br>';
 
 
